@@ -18,6 +18,11 @@ excel不能打开太大的csv，推荐使用vscode的[Excel Viewer插件](https:
 
 <img width="967" height="185" alt="image" src="https://github.com/user-attachments/assets/d96eca85-5b8b-4da4-8f03-7ee9b3b2e684" />    
 
-## 爬取的数据展示  
+
+
+## 爬取数据展示
+
+<img width="900" height="1540" alt="image" src="https://github.com/user-attachments/assets/ddb48cef-7bf5-490f-a7ee-1e5016effd6a" />
+
 
 <img width="1562" height="1030" alt="image" src="https://github.com/user-attachments/assets/4f5f4ca4-c7bc-463d-8fcd-15f7bd4836c0" />
