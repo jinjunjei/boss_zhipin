@@ -261,8 +261,9 @@ if __name__ == '__main__':
     name_list=get_company_name(dire,col=1 )
     get_each_company_jobs(driver,
                           name_list,
-                          strat_num=331,
+                          strat_num=0,
                           directory=dire)
     json_merge_to_csv.main(dire[:-4:])
     input('完成,输入任意退出')
     driver.quit()
+
